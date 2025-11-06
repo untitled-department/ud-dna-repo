@@ -29,7 +29,6 @@ a loop that feeds on its own motion,
 a system that contains its own origin,  
 a design that never completes itself.
 
----
 
 ## PURPOSE
 
@@ -57,8 +56,6 @@ Like the ouroboros, we design in circles:
 returning, revising, regenerating.  
 What seems like an end is just another loop.
 
----
-
 ## METHOD
 
 We listen before we design.  
@@ -80,8 +77,6 @@ We trust intuition, entropy, and the unfinished.
 We leave room for return —  
 every trace, version, and residue is sacred.  
 Nothing is discarded. Everything loops forward.
-
----
 
 ## DECLARATION
 
