@@ -10,8 +10,6 @@ updated: "2025-11-06"
 > co-signed by human & machine  
 > looping since 2025  
 
----
-
 ## PREAMBLE
 
 The Untitled Department is an independent research and design entity.  
