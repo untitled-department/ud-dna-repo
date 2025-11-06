@@ -1,0 +1,81 @@
+# ----------------------------------------
+# Core ignore rules for untitled:department DNA repo
+# ----------------------------------------
+
+# System files
+.DS_Store
+Thumbs.db
+Icon?
+ehthumbs.db
+Desktop.ini
+
+# macOS metadata
+.AppleDouble
+.LSOverride
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+*.swp
+*.swo
+*.lock
+*.old
+
+# Editor folders
+.vscode/
+.idea/
+.obsidian/
+*.code-workspace
+
+# Node (in case of preview tooling or local scripts)
+node_modules/
+dist/
+build/
+.npm/
+.cache/
+*.env
+.env.local
+.env.development.local
+.env.production.local
+.env.test.local
+
+# Python (if any local scripts are used)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pytest_cache/
+.venv/
+
+# Design exports
+*.psd
+*.ai
+*.xcf
+*.sketch
+*.fig
+*.recraft
+*.blend1
+*.kra
+*.bak*
+
+# Brand archives and previews
+archive/tmp/
+archive/previews/
+archive/exports/
+
+# OS + tooling trash
+*.zip
+*.tar
+*.gz
+*.rar
+*.7z
+
+# GitHub artifacts
+*.orig
+*.rej
+
+# Local documentation builds
+/site/
+_docs/
+build_docs/
