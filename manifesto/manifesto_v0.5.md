@@ -1,6 +1,4 @@
-# untitled:department — Manifesto v0.5
-
----
+title: "untitled:department manifesto"
 version: "0.5"
 updated: "2025-11-06"
 ---
