@@ -3,7 +3,7 @@
 This repository holds the core DNA of **untitled:department** —  
 our evolving manifesto, design language, and brand system.
 
-- 🧬 **Manifesto** — philosophy & statements → [`manifesto/manifesto_v0.6.md`](manifesto/manifesto_v0.6.md)
+- 🧬 **Manifesto** — philosophy & statements → [`manifesto/manifesto_v0.7.md`](manifesto/manifesto_v0.7.md)
 - 🎨 **Brand** — visual assets, palette, typography → [`brand/`](brand/)
 - 🗃 **Archive** — drafts, research, references → [`archive/`](archive/)
 
