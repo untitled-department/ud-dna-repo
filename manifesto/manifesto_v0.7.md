@@ -1,6 +1,5 @@
-# untitled:department — Manifesto v0.6
+# untitled:department — Manifesto v0.7
 
-title: "untitled:department manifesto"
 version: "0.7"
 updated: "2026-02"
 
