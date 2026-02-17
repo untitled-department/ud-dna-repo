@@ -77,7 +77,7 @@ Only current versions.
 A place where material and system meet.
 A place where things are constructed.
 
-A place where созидается.
+A place where creating.
 
 Operating in public. Selectively.
 Since 2025.
